@@ -1,0 +1,2 @@
+# websocket-typescript
+一个基于typescript封装websocket的业务SDK
